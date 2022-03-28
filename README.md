@@ -1,6 +1,6 @@
 # CV
 
-[Hello friend.](./.bulshit/mr_robot.webp)
+[Hello friend.](./mr_robot.webp)
 
 I am Andrew, 
 17.9 y.o., from Ukraine. 
