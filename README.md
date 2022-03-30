@@ -6,15 +6,6 @@ I am Andrew,
 17.9 y.o., from Ukraine. 
 Now live in Czech.
 
-## Study
-
-- Complete secondary education (11 classes).
-- English level - certificated a2, real b1-b2.
-- Bachelor's degree - 1st year of embedded systems programming.
-- Embedded linux - still learning [Arm Inc. online course](https://www.arm.com/resources/education/online-courses/embedded-linux).
-- Linux - use linux more than 2 years.
-- Rust lang - still educating myself by [docs](https://doc.rust-lang.org/book/).
-- Web dev stack - still educating myself by [docs](https://developer.mozilla.org/en-US/).
 
 ## Skills
 
@@ -25,10 +16,12 @@ Now live in Czech.
 - SQL
 - Git
 - Docker
-- Can find information
-- Fast study
 - Blind typing
 - Can work in team
+- Can find needed information
+- Fast in studying
+- Curiosity 
+- Physics / Math 
 
 ## Portfolio
 
@@ -36,6 +29,17 @@ Now live in Czech.
 - [JavaScript Study notes](https://wewrgegtyj.github.io/web/3_js/0_study_notes/index.html)
 - [JavaScript](https://wewrgegtyj.github.io/web/3_js/2_silly_story_generator/index.html)
 - [React and Nodejs](https://github.com/wewrgegtyj/api_react_app)
+
+## Study
+
+- Complete secondary education (11 classes).
+- English level - certificated a2, real b1-b2.
+- Bachelor's degree - 1st year of embedded systems programming.
+- Embedded linux - still learning [Arm Inc. online course](https://www.arm.com/resources/education/online-courses/embedded-linux).
+- Linux - use linux more than 2 years.
+- Rust lang - still educating myself by [docs](https://doc.rust-lang.org/book/).
+- Web dev stack - still educating myself by [docs](https://developer.mozilla.org/en-US/).
+
 
 ## Work experience
 
