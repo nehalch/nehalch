@@ -1,6 +1,6 @@
 # CV
 
-[Hello friend.](./mr_robot.webp)
+Hello.
 
 I am Andrew, 
 17.9 y.o., from Ukraine. 
@@ -22,7 +22,8 @@ Now live in Czech.
 - SQL
 - Git
 - Docker
-- Google
+- Can find information
+- Fast study
 - Blind typing
 - Can work in team
 
