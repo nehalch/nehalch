@@ -18,7 +18,10 @@ Now live in Czech.
 
 ## Skills
 
-- bash
+- Software Development
+- Server-side / Back-end
+- Linux / Bash 
+- OOP
 - SQL
 - Git
 - Docker
