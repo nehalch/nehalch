@@ -25,10 +25,32 @@ Now live in Czech.
 
 ## Portfolio
 
-- [HTML](https://wewrgegtyj.github.io/web/1_html/3_letter/index.html)
-- [JavaScript Study notes](https://wewrgegtyj.github.io/web/3_js/0_study_notes/index.html)
-- [JavaScript](https://wewrgegtyj.github.io/web/3_js/2_silly_story_generator/index.html)
-- [React and Nodejs](https://github.com/wewrgegtyj/api_react_app)
+- Linux
+  - Buildroot / Yocto project
+  - Ubuntu Server setup
+  - Nginx / SSL / DNS
+  - Docker containers
+  - SQL
+  
+- Rust
+  - Basics
+  
+- HTML
+  - [Mozilla page](https://wewrgegtyj.github.io/web/1_html/1_firefox/index.html)
+  - [Birdwatching](https://wewrgegtyj.github.io/web/1_html/2_birdwatching/index.html)
+  - [Email letter](https://wewrgegtyj.github.io/web/1_html/3_letter/index.html)
+  - [Mozilla splash-page](https://wewrgegtyj.github.io/web/1_html/4_splash-page/index.html)
+  - [Structured planet data](https://wewrgegtyj.github.io/web/1_html/5_structuring_planet_data/index.html)
+- JavaScript 
+  - [Silly story generator](https://wewrgegtyj.github.io/web/3_js/2_silly_story_generator/index.html)
+  - [JS use cases](https://wewrgegtyj.github.io/web/3_js/0_study_notes/index.html)
+  - [Some API react app](https://github.com/wewrgegtyj/api_react_app)
+- Knowledge of CSS
+  - Cascade and inheritance
+  - Selectors
+  - Box model
+  - Overflowing
+
 
 ## Study
 
