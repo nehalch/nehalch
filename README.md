@@ -12,6 +12,7 @@
 - Self-learning
 - Blind typing
 - Can work in team
+- Have teaching experience
 - Can find needed information
 - Fast in studying
 - Curiosity 
@@ -69,7 +70,14 @@
 
 ## WORK EXPERIENCE
 
-### At school
+### Led the programming group
+- December 2017 - May 2018
+- Part time job
+- I taught my friends and classmates the basics of python at my school.
+### Worked in computer repair
+- June 2018 - January 2020
+- Part time job
+- I dismantled, cleaned, repaired laptops and PCs. Also fix, cleaned, reinstalled Windows or Linux.
 ### Worked in logistics infrastructure
 
 - June 2020 - August 2020
