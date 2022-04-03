@@ -1,9 +1,8 @@
 ## Skills
-- Linux
-- [Rust lang](Nehalchuk%20Andrew%20Rust%20certificate.pdf)
-- [JavaScript](Nehalchuk%20Andrew%20JavaScript%20certificate.pdf)
-- [HTML](Nehalchuk%20Andrew%20HTML%20certificate.pdf)
-- CSS
+- Linux, Yocto Project, Buildroot
+- Rust lang, C
+- JavaScript, TypeScript
+- HTML, CSS, SASS
 - Git
 - SQL
 - Docker
@@ -20,15 +19,15 @@
 ## Projects
 
 - HTML
-  - [Mozilla page](https://wewrgegtyj.github.io/web/1_html/1_firefox/index.html)
-  - [Birdwatching](https://wewrgegtyj.github.io/web/1_html/2_birdwatching/index.html)
-  - [Email letter](https://wewrgegtyj.github.io/web/1_html/3_letter/index.html)
-  - [Mozilla splash-page](https://wewrgegtyj.github.io/web/1_html/4_splash-page/index.html)
-  - [Structured planet data](https://wewrgegtyj.github.io/web/1_html/5_structuring_planet_data/index.html)
+  - [Mozilla page]()
+  - [Birdwatching]()
+  - [Email letter]()
+  - [Mozilla splash-page]()
+  - [Structured planet data]()
 - JavaScript 
-  - [Silly story generator](https://wewrgegtyj.github.io/web/3_js/2_silly_story_generator/index.html)
-  - [JS use cases](https://wewrgegtyj.github.io/web/3_js/0_study_notes/index.html)
-  - [Some API react app](https://github.com/wewrgegtyj/api_react_app)
+  - [Silly story generator]()
+  - [JS use cases]()
+  - [Some API react app]()
 
 ## Study
 
@@ -39,6 +38,7 @@
 
 ## Work experience
 
+### 
 ### Worked in logistics infrastructure
 
 - June 2020 - August 2020
