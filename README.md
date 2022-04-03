@@ -1,18 +1,11 @@
-# CV
-
-Hello.
-
-I am Andrew, 
-17.9 y.o., from Ukraine. 
-Now live in Czech.
-
-
 ## Skills
 
-- Software Development
-- Server-side / Back-end
-- Linux / Bash 
-- OOP
+- Linux / Bash
+- [Rust lang](Nehalchuk%20Andrew%20Rust%20certificate.pdf)
+- [JavaScript](Nehalchuk%20Andrew%20JavaScript%20certificate.pdf)
+- [HTML](Nehalchuk%20Andrew%20HTML%20certificate.pdf)
+- CSS
+
 - SQL
 - Git
 - Docker
