@@ -1,14 +1,5 @@
 ## Skills
 
-- Linux / Bash
-- [Rust lang](Nehalchuk%20Andrew%20Rust%20certificate.pdf)
-- [JavaScript](Nehalchuk%20Andrew%20JavaScript%20certificate.pdf)
-- [HTML](Nehalchuk%20Andrew%20HTML%20certificate.pdf)
-- CSS
-
-- SQL
-- Git
-- Docker
 - Blind typing
 - Can work in team
 - Can find needed information
@@ -16,18 +7,8 @@
 - Curiosity 
 - Physics / Math 
 
-## Portfolio
+## Projects
 
-- Linux
-  - Buildroot / Yocto project
-  - Ubuntu Server setup
-  - Nginx / SSL / DNS
-  - Docker containers
-  - SQL
-  
-- Rust
-  - Basics
-  
 - HTML
   - [Mozilla page](https://wewrgegtyj.github.io/web/1_html/1_firefox/index.html)
   - [Birdwatching](https://wewrgegtyj.github.io/web/1_html/2_birdwatching/index.html)
@@ -38,12 +19,6 @@
   - [Silly story generator](https://wewrgegtyj.github.io/web/3_js/2_silly_story_generator/index.html)
   - [JS use cases](https://wewrgegtyj.github.io/web/3_js/0_study_notes/index.html)
   - [Some API react app](https://github.com/wewrgegtyj/api_react_app)
-- Knowledge of CSS
-  - Cascade and inheritance
-  - Selectors
-  - Box model
-  - Overflowing
-
 
 ## Study
 
