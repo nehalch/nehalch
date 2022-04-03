@@ -1,4 +1,14 @@
 ## Skills
+- Linux
+- [Rust lang](Nehalchuk%20Andrew%20Rust%20certificate.pdf)
+- [JavaScript](Nehalchuk%20Andrew%20JavaScript%20certificate.pdf)
+- [HTML](Nehalchuk%20Andrew%20HTML%20certificate.pdf)
+- CSS
+- Git
+- SQL
+- Docker
+
+## Additional skills
 
 - Blind typing
 - Can work in team
@@ -26,10 +36,6 @@
 - English level - certificated a2, real b1-b2.
 - Bachelor's degree - 1st year of embedded systems programming.
 - Embedded linux - still learning [Arm Inc. online course](https://www.arm.com/resources/education/online-courses/embedded-linux).
-- Linux - use linux more than 2 years.
-- Rust lang - still educating myself by [docs](https://doc.rust-lang.org/book/).
-- Web dev stack - still educating myself by [docs](https://developer.mozilla.org/en-US/).
-
 
 ## Work experience
 
