@@ -1,4 +1,4 @@
-# IT Resume
+# IT Resume [Download](Andrew%20Nehalchuk%20IT%20Resume.pdf)
 ## TECHNICAL SKILLS
 - Linux, Yocto Project, Buildroot
 - Rust lang, C
@@ -33,7 +33,7 @@
 
 - English:
   - [English A2 certificate](https://raw.githubusercontent.com/nehalch/nehalch/main/certificates/Nehalchuk%20Andrew%20English%20A2%20certificate.jpg)
-  - Real B1-B2
+  - Not certified B1-B2
 
 - Embedded linux:
   - Still learning [Arm Inc. online course](https://www.arm.com/resources/education/online-courses/embedded-linux)
