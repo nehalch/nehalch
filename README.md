@@ -1,4 +1,4 @@
-# IT Resume [Download]([Andrew%20Nehalchuk%20IT%20Resume.pdf](https://raw.githubusercontent.com/nehalch/nehalch/main/Andrew%20Nehalchuk%20IT%20Resume.pdf))
+# IT Resume [Download](Andrew%20Nehalchuk%20IT%20Resume.pdf](https://raw.githubusercontent.com/nehalch/nehalch/main/Andrew%20Nehalchuk%20IT%20Resume.pdf))
 ## TECHNICAL SKILLS
 - Linux, Yocto Project, Buildroot
 - Rust lang, C
