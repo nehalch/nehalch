@@ -1,4 +1,5 @@
-## Skills
+# IT Resume
+## TECHNICAL SKILLS
 - Linux, Yocto Project, Buildroot
 - Rust lang, C
 - JavaScript, TypeScript
@@ -7,7 +8,7 @@
 - SQL
 - Docker
 
-## Additional skills
+## ADDITIONAL SKILLS
 - Self-learning
 - Blind typing
 - Can work in team
@@ -16,29 +17,59 @@
 - Curiosity 
 - Physics / Math 
 
-## Projects
+## LANGUAGES 
+- English - Intermediate
+- Russian - Native Speaker
+- Ukrainian - Native Speaker 
+
+## EDUCATION
+
+- 2010 - 2021 / Complete secondary education (11 classes).
+
+- 2021 / Bachelor's degree of embedded systems programming.
+
+## COURSES AND CERTIFICATES
+
+- English:
+  - [English A2 certificate](https://raw.githubusercontent.com/nehalch/nehalch/main/certificates/Nehalchuk%20Andrew%20English%20A2%20certificate.jpg)
+  - Real B1-B2
+
+- Embedded linux:
+  - Still learning [Arm Inc. online course](https://www.arm.com/resources/education/online-courses/embedded-linux)
+
+- Rust lang:
+  - [Educative certificate](https://raw.githubusercontent.com/nehalch/nehalch/main/certificates/Nehalchuk%20Andrew%20Rust%20certificate.png)
+  - ["The Rust Programming Language" book](https://doc.rust-lang.org/book/)
+
+- JavaScript:
+  - [Sololearn certificate](https://raw.githubusercontent.com/nehalch/nehalch/main/certificates/Nehalchuk%20Andrew%20JavaScript%20certificate.png)
+  - [Learn JavaScript Course](https://learnjavascript.online/)
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+- HTML:
+  - [Sololearn certificate](https://raw.githubusercontent.com/nehalch/nehalch/main/certificates/Nehalchuk%20Andrew%20HTML%20certificate.png)
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+
+- CSS:
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+
+## PROJECTS
 
 - HTML
-  - [Mozilla page]()
-  - [Birdwatching]()
-  - [Email letter]()
-  - [Mozilla splash-page]()
-  - [Structured planet data]()
+  - [Mozilla page](https://nehalch.github.io/web/1_html/1_firefox/index.html)
+  - [Birdwatching](https://nehalch.github.io/web/1_html/2_birdwatching/index.html)
+  - [Email letter](https://nehalch.github.io/web/1_html/3_letter/index.html)
+  - [Mozilla splash-page](https://nehalch.github.io/web/1_html/4_splash-page/index.html)
+  - [Structured planet data](https://nehalch.github.io/web/1_html/5_structuring_planet_data/index.html)
 - JavaScript 
-  - [Silly story generator]()
-  - [JS use cases]()
-  - [Some API react app]()
+  - [Number guessing game](https://nehalch.github.io/web/3_js/1_number_guessing_game/index.html)
+  - [Silly story generator](https://nehalch.github.io/web/3_js/2_silly_story_generator/index.html)
+  - [JS use cases](https://nehalch.github.io/web/3_js/0_study_notes/index.html)
+  - [Some API react app](https://github.com/nehalch/api_react_app)
 
-## Study
+## WORK EXPERIENCE
 
-- Complete secondary education (11 classes).
-- English level - certificated a2, real b1-b2.
-- Bachelor's degree - 1st year of embedded systems programming.
-- Embedded linux - still learning [Arm Inc. online course](https://www.arm.com/resources/education/online-courses/embedded-linux).
-
-## Work experience
-
-### 
+### At school
 ### Worked in logistics infrastructure
 
 - June 2020 - August 2020
