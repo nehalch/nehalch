@@ -1,3 +1,5 @@
+# hello
+123123
 ## Skills
 - Linux
 - [Rust lang](Nehalchuk%20Andrew%20Rust%20certificate.pdf)
