@@ -67,7 +67,9 @@
   - [Silly story generator](https://nehalch.github.io/web/3_js/2_silly_story_generator/index.html)
   - [JS use cases](https://nehalch.github.io/web/3_js/0_study_notes/index.html)
   - [Some API react app](https://github.com/nehalch/api_react_app)
-
+- Embedded development
+  - [Yocto project / Buildroot](https://github.com/nehalch/embedded_linux) 
+  - [Embedded rust on STM32F1x](https://github.com/nehalch/stm32f1) 
 ## WORK EXPERIENCE
 
 ### Led the programming group
