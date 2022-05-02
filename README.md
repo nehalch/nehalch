@@ -68,7 +68,7 @@
   - [JS use cases](https://nehalch.github.io/web/3_js/0_study_notes/index.html)
   - [Some API react app](https://github.com/nehalch/api_react_app)
 - Embedded development
-  - [Yocto project / Buildroot](https://github.com/nehalch/embedded_linux) 
+  - [Yocto project / Buildroot on RSPI 4b+](https://github.com/nehalch/embedded_linux) 
   - [Embedded rust on STM32F1x](https://github.com/nehalch/stm32f1) 
 ## WORK EXPERIENCE
 
