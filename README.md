@@ -92,9 +92,8 @@
 - Part time job
 - In team worked on cutting and folding fabric.
 
-
 ### Work at a construction site
 
-- from March 2022
+- March 2022 - April 2022
 - Full time job
 - In the team I help the construction of the second floor.
