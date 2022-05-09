@@ -2,7 +2,7 @@
 ## TECHNICAL SKILLS
 - Linux, Yocto Project, Buildroot
 - Rust lang, C
-- JavaScript, TypeScript
+- JavaScript, TypeScript, React
 - HTML, CSS, SASS
 - Git
 - SQL
@@ -56,20 +56,26 @@
 
 ## PROJECTS
 
+- Embedded development
+  - [Yocto project / Buildroot on RSPI 4b+](https://github.com/nehalch/embedded_linux) 
+  - [Embedded rust on STM32F1x](https://github.com/nehalch/stm32f1) 
+
+- React development
+  - [React study projects](https://github.com/nehalch/react_study)
+  - [Some API react app](https://github.com/nehalch/api_react_app)
+
+- JavaScript 
+  - [Number guessing game](https://nehalch.github.io/web/3_js/1_number_guessing_game/index.html)
+  - [Silly story generator](https://nehalch.github.io/web/3_js/2_silly_story_generator/index.html)
+  - [JS use cases](https://nehalch.github.io/web/3_js/0_study_notes/index.html)
+  
+
 - HTML
   - [Mozilla page](https://nehalch.github.io/web/1_html/1_firefox/index.html)
   - [Birdwatching](https://nehalch.github.io/web/1_html/2_birdwatching/index.html)
   - [Email letter](https://nehalch.github.io/web/1_html/3_letter/index.html)
   - [Mozilla splash-page](https://nehalch.github.io/web/1_html/4_splash-page/index.html)
   - [Structured planet data](https://nehalch.github.io/web/1_html/5_structuring_planet_data/index.html)
-- JavaScript 
-  - [Number guessing game](https://nehalch.github.io/web/3_js/1_number_guessing_game/index.html)
-  - [Silly story generator](https://nehalch.github.io/web/3_js/2_silly_story_generator/index.html)
-  - [JS use cases](https://nehalch.github.io/web/3_js/0_study_notes/index.html)
-  - [Some API react app](https://github.com/nehalch/api_react_app)
-- Embedded development
-  - [Yocto project / Buildroot on RSPI 4b+](https://github.com/nehalch/embedded_linux) 
-  - [Embedded rust on STM32F1x](https://github.com/nehalch/stm32f1) 
 ## WORK EXPERIENCE
 
 ### Led the programming group
